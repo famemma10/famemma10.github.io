@@ -1,0 +1,51 @@
+body{
+	background-color: black;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 26px;
+	font-family: DIN Next LT Pro;
+	margin-left: 50px;
+}
+
+@font-face{
+    font-family: 'DIN Next LT Pro';
+    src: url('czcionka.ttf')
+}
+
+#container{
+	
+	
+}
+
+#menu{
+	padding-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 51px;
+	width: 1000px;
+	
+	
+}
+
+#logo{
+width: 400px;
+float: left;
+}
+
+#menu-buttons{
+	float: left;
+}
+
+#main{
+color: white;
+font-family: DIN Next LT Pro;
+font-size: 20px;
+width:1000px;
+margin-left: auto;
+margin-right: auto;
+padding-top: 150px;
+text-align: center;
+}
